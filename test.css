@@ -1,4 +1,10 @@
 *{
-    margin: 0px;
+    margin: 5px;
     padding: 0px;
+}
+.x{
+    font-size: larger;
+}
+.v{
+    cursor: url(th.jpeg),auto;
 }
